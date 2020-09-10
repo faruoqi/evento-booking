@@ -1,0 +1,4 @@
+github.com/faruoqi/evento v0.1.0 h1:NjvRe4TQO80/jl2tUxgBto3AcH7N4rBvQ/YzXSTN2Hw=
+github.com/faruoqi/evento v0.1.0/go.mod h1:NFW+3j3lwg87w7wnrKG5Xs/b0nICz5hzqCOpuBEuPXY=
+github.com/streadway/amqp v1.0.0 h1:kuuDrUJFZL1QYL9hUNuCxNObNzB0bV/ZG5jV3RWAQgo=
+github.com/streadway/amqp v1.0.0/go.mod h1:AZpEONHx3DKn8O/DFsRAY58/XVQiIPMTMB1SddzLXVw=
